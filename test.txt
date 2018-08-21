@@ -1,0 +1,1 @@
+Este es un archivo para verificar el uso de ramas en GIT.
